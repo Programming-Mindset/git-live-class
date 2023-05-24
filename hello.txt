@@ -1,1 +1,1 @@
-hello we are learning git
+this is second commit text
